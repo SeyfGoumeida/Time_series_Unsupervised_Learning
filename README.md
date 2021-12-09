@@ -1,4 +1,8 @@
 # Time_series_Unsupervised_Learning
+
+Realiser par :
+- Mohamed Erifai MAAMIR
+- Ahmed Seyfeddine GOUMEIDA
 # Objectifs
 L’objectif de ce projet est d’utiliser la classification non supervis´ee pour aider `a reconnaˆıtre, `a partir
 de donn´ees issues de smartphones, diff´erentes classes d’activit´es physiques de personnes : (1) marcher,
